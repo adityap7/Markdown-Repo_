@@ -19,3 +19,4 @@ Step 1: Create a bucket
     
     ![S3 Dashboard width-85](https://github.com/adityap7/Markdown-Repo_/assets/6860928/6244c71c-7bcb-4a15-8962-1905ddbe9dcf)
     
+  - Select Create bucket. The Create bucket window will opens.
