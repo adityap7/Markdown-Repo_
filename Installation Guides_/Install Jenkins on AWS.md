@@ -5,3 +5,6 @@ Jenkins – an open source automation server which permits developers round the 
 
 ## smooth installation - My way :)
 "the whole lot is accessible you just need to appearance closely" - Aditya S Patil
+
+## Steps for Installation:
+Step - 1 Install Java
