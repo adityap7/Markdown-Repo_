@@ -5,7 +5,7 @@
 ## About this guide
 Jenkins – an open source automation server which permits developers round the world to reliably build, check, and installation their software program
 
-## smooth installation - My way :)
+## Smooth installation - My way :)
 "the whole lot is accessible you just need to appearance closely" - Aditya S. Patil
 
 ## Steps for Installation:
@@ -28,7 +28,7 @@ Step - 1 Install Java
   openjdk version "11.0.12" 2021-07-20 OpenJDK Runtime Environment (build 11.0.12+7-post-Debian-2) OpenJDK 64-Bit Server VM (build          11.0.12+7-post-Debian-2, mixed mode, sharing)
   ```
 Step - 2 Install Jenkins
-  - simply copy those commands and paste them onto your terminal:
+  - Simply copy those commands and paste them onto your terminal:
   ```
   curl -fsSL https://pkg.jenkins.io/debian/jenkins.io.key | sudo tee \   /usr/share/keyrings/jenkins-keyring.asc > /dev/null
   ```
