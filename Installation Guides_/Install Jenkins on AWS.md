@@ -12,7 +12,7 @@ Jenkins – an open source automation server which permits developers round the 
 Step - 1 Install Java
   - You need to Update your system-Use following command:
   
-  ```
+   ```
   sudo apt update
   ```
   - Now Install java-Use following command:
