@@ -5,9 +5,6 @@
 ## About this guide
 Jenkins – an open source automation server which permits developers round the world to reliably build, check, and installation their software program
 
-## Smooth installation - My way :)
-"the whole lot is accessible you just need to appearance closely" - Aditya S. Patil
-
 ## Steps for Installation:
 Step - 1 Install Java
   - You need to Update your system-Use following command:
@@ -53,9 +50,8 @@ Step -3 Start jenkins
   sudo systemctl status jenkins
   ```
 Step - 4 Open port 8080 from AWS Console
-  - I assume we are quite a lot achieved here.
 
-:smiley:In this way we have completed our installation of Jenkins on AWS:smiley:
+- In this way we have completed our installation of Jenkins on AWS.
 
 
 
