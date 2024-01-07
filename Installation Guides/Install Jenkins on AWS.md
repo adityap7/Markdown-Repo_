@@ -1,6 +1,6 @@
 # Install Jenkins on AWS
 
- ![github_jenkins width-2](https://github.com/adityap7/Markdown-Repo_/assets/6860928/24e8a264-8205-4a2c-b183-9750115cf3e1)
+![github_jenkins width-2](https://github.com/adityap7/Markdown-Repo_/assets/6860928/24e8a264-8205-4a2c-b183-9750115cf3e1)
 
 ## About this guide
 Jenkins – It is an open source automation server. It helps automate the parts of software development related to building, testing, and deploying, facilitating continuous integration, and continuous delivery. It is a server-based system that runs in servlet containers such as Apache Tomcat.
