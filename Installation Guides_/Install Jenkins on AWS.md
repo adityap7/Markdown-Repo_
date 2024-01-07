@@ -4,6 +4,7 @@
 
 ## About this guide
 Jenkins – It is an open source automation server. It helps automate the parts of software development related to building, testing, and deploying, facilitating continuous integration, and continuous delivery. It is a server-based system that runs in servlet containers such as Apache Tomcat.
+
 Aws-Amazon Web Services,is a subsidiary of Amazon that provides on-demand cloud computing platforms and APIs to individuals, companies, and governments, on a metered, pay-as-you-go basis. Clients will often use this in combination with autoscaling
 
 ## Steps for Installation:
