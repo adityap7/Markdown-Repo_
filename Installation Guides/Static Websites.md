@@ -3,7 +3,6 @@
 ## About this Tutorial
 you can use Amazon S3 to host a static internet site. On a static website, Individual webpages include static content material. they may also include purchaser-aspect scripts.
 
-
 By contrast, a dynamic website is predicated on server-side processing, consisting of server-side scripts, together with personal home page, JSP, or ASP.net. Amazon S3 does now not aid server-facet scripting, however AWS has different resources for web hosting dynamic websites.
 
 This academic consists of commands and step-via-step walkthroughs to host a static internet site on Amazon S3 bucket. 
