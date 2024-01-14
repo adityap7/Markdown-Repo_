@@ -3,7 +3,7 @@
 ![github_jenkins width-2](https://github.com/adityap7/Markdown-Repo_/assets/6860928/24e8a264-8205-4a2c-b183-9750115cf3e1)
 
 ## About this tutorial
-Jenkins: It is an open source automation server that manages the phases of software development. It includes building, testing, and deploying an application by facilitating continuous integration and continuous delivery. Jenkins is a server-based system that runs in servlet containers of Apache Tomcat
+Jenkins: It is an open source automation server that manages the phases of software development. It includes building, testing, and deploying an application by facilitating continuous integration and continuous delivery. Jenkins is a server-based system that runs in servlet containers of Apache Tomcat.
 
 Aws: Amazon Web Services,is a subsidiary of Amazon that provides on-demand cloud computing platforms and APIs to individuals, companies, and governments, on a metered, pay-as-you-go basis. Clients will often use this in combination with autoscaling
 
