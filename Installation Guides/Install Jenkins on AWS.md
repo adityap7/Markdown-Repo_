@@ -12,15 +12,15 @@ Step - 1 Install Java:
   - You need to Update your system-Use following command:
   
   ```
-  sudo apt update
+  sudo apt update.
   ```
   - Now Install java-Use following command:
   ```
-  sudo apt install openjdk-11-jre
+  sudo apt install openjdk-11-jre.
   ```
   - To Validate Installation-Use following command:
   ```
-  java -version
+  java -version.
   ```
   It have to appearance some thing like this.
   ```
@@ -35,21 +35,21 @@ Step - 2 Install Jenkins
   echo deb [signed-by=/usr/share/keyrings/jenkins-keyring.asc] \   https://pkg.jenkins.io/debian binary/ | sudo tee \                       /etc/apt/sources.list.d/jenkins.list > /dev/null
   ```
   ```
-  sudo apt-get update
+  sudo apt-get update.
   ```
   ```
-  sudo apt-get install jenkins
+  sudo apt-get install jenkins.
   ```
 Step -3 Start jenkins
   - You need to use following commands:
   ```
-  sudo systemctl enable jenkins
+  sudo systemctl enable jenkins.
   ```
   ```
-  sudo systemctl start jenkins
+  sudo systemctl start jenkins.
   ```
   ```
-  sudo systemctl status jenkins
+  sudo systemctl status jenkins.
   ```
 Step - 4 Open port 8080 from AWS Console
 
